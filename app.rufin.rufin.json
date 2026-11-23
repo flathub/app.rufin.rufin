@@ -156,8 +156,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/rufin-app/rufin.git",
-                    "tag": "v0.19.0",
-                    "commit": "6e78a4f97a31d51a48e8cc3744f6fec0f2401102"
+                    "tag": "v0.20.0",
+                    "commit": "afda47f2bae71ccfb3d2b05f81c95e75d1e5c0c9"
                 },
                 "cargo-sources.json"
             ]

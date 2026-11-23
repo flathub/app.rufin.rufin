@@ -9,5 +9,5 @@
 +AM_INIT_AUTOMAKE([1.11.2 -Wall foreign subdir-objects
 +                  dist-zip dist-bzip2 dist-xz])
  AC_CONFIG_SRCDIR([src/bs2b.h])
- 
+
  # Checks for programs.
